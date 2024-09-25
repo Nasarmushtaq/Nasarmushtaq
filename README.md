@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nasarmushtaq.
 - 👀 I’m interested in Coding.
 - 🌱 I’m currently learning in GCET jammu.
-- 💞️ I’m looking to collaborate on c programming.
+- 💞️ I’m looking to collaborate on web dev.
 - 📫  reach me on instagram nasar_kh9.
 
 <!---
